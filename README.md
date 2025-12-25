@@ -131,8 +131,8 @@ The system is **fully autonomous**, does **not depend on smartphones**, and is e
 ---
 
 ## 👨‍💻 Contributors
-- Pawan Kumar Gupta    
-- Nishant Kumar  
+- Nishant Kumar
+- Pawan Kumar Gupta      
 - Devansh Verma
 - Himanshu Namboori
 
